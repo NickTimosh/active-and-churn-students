@@ -33,7 +33,7 @@ The project implementation included the following main stages:
 
 ## Functions and techniques
 
-The following list represents some of fuctions and techniques utilized within the project:
+The following list represents some of fuctions and techniques utilized within the project
 
 * Calendar - to obtain results from different tables (lessons visited, lessons purchased, lesson statuses) the calendar table has been created as a separate CTE;
 * Nested queries in FROM clause;
